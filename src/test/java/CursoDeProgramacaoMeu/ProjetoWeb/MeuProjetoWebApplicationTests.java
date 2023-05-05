@@ -1,4 +1,4 @@
-package br.com.curso.de.programacao.meuprojetoweb;
+package CursoDeProgramacaoMeu.ProjetoWeb;
 
 import java.math.BigDecimal;
 

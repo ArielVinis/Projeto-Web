@@ -1,4 +1,4 @@
-package br.com.curso.de.programacao.meuprojetoweb;
+package CursoDeProgramacaoMeu.ProjetoWeb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
